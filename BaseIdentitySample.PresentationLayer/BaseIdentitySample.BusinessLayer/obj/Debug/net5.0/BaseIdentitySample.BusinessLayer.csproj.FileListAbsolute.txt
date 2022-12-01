@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\bin\Debug\net5.0\BaseIdentitySample.BusinessLayer.deps.json
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\bin\Debug\net5.0\BaseIdentitySample.BusinessLayer.dll
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\bin\Debug\net5.0\BaseIdentitySample.BusinessLayer.pdb
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\bin\Debug\net5.0\BaseIdentitySample.DataAccessLayer.dll
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\bin\Debug\net5.0\BaseIdentitySample.EntityLayer.dll
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\bin\Debug\net5.0\BaseIdentitySample.DataAccessLayer.pdb
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\bin\Debug\net5.0\BaseIdentitySample.EntityLayer.pdb
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\BaseIdentitySample.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\BaseIdentitySample.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\BaseIdentitySample.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\BaseIdentitySample.BusinessLayer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\BaseIdentitySample.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\BaseIdentitySample.BusinessLayer.csproj.CopyComplete
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\BaseIdentitySample.BusinessLayer.dll
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\refint\BaseIdentitySample.BusinessLayer.dll
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\BaseIdentitySample.BusinessLayer.pdb
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.BusinessLayer\obj\Debug\net5.0\ref\BaseIdentitySample.BusinessLayer.dll

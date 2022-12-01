@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\bin\Debug\net5.0\BaseIdentitySample.EntityLayer.deps.json
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\bin\Debug\net5.0\BaseIdentitySample.EntityLayer.runtimeconfig.json
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\bin\Debug\net5.0\BaseIdentitySample.EntityLayer.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\bin\Debug\net5.0\BaseIdentitySample.EntityLayer.dll
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\bin\Debug\net5.0\BaseIdentitySample.EntityLayer.pdb
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\BaseIdentitySample.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\BaseIdentitySample.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\BaseIdentitySample.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\BaseIdentitySample.EntityLayer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\BaseIdentitySample.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\BaseIdentitySample.EntityLayer.dll
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\refint\BaseIdentitySample.EntityLayer.dll
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\BaseIdentitySample.EntityLayer.pdb
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\BaseIdentitySample.EntityLayer.genruntimeconfig.cache
+C:\Users\DELL\source\repos\BaseIdentitySample.PresentationLayer\BaseIdentitySample.EntityLayer\obj\Debug\net5.0\ref\BaseIdentitySample.EntityLayer.dll
